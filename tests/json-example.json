@@ -1,0 +1,15 @@
+{
+	"name": "One Piece cNft",
+	"symbol": "cZORO",
+	"description": "Zebec Test cNFT ft. One Piece cNft",
+	"image": "https://app.ardrive.io/#/file/a8a85cd4-b3af-41ef-aad9-eaae0eb67546/view",
+	"attributes": [],
+	"properties": {
+		"files": [
+			{
+				"uri": "https://app.ardrive.io/#/file/a8a85cd4-b3af-41ef-aad9-eaae0eb67546/view",
+				"type": "image/jpeg"
+			}
+		]
+	}
+}
